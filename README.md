@@ -105,6 +105,8 @@ Me chamo Jonas Silva Carvalho, tenho 25 anos e sou natural do Rio de janeiro. Co
     src="https://github-readme-stats.vercel.app/api?username=jonasloop1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+<br/>
+
   <img 
       align="left" 
       alt="GitHub Stats" 
@@ -116,5 +118,5 @@ Me chamo Jonas Silva Carvalho, tenho 25 anos e sou natural do Rio de janeiro. Co
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonasloop1/jonasloop1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonasloop1/jonasloop1/output/github-contribution-grid-snake-dark.svg">
-  <img align="left" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jonasloop1/jonasloop1/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jonasloop1/jonasloop1/output/github-contribution-grid-snake.svg">
 </picture>
