@@ -16,7 +16,16 @@ Me chamo Jonas Silva Carvalho, tenho 25 anos e sou natural do Rio de janeiro. Co
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<img 
+    align="right" 
+    alt="meme" 
+    title="meme"
+    width="130px" 
+    style="float-right" 
+    src="https://github.com/user-attachments/assets/eafe5765-c6e5-43bd-9452-3eb8aa2a1fd3"
+/>
+
+### 🤖 Linguagens e Tecnologias 
 
 <img 
     align="left" 
@@ -89,14 +98,6 @@ Me chamo Jonas Silva Carvalho, tenho 25 anos e sou natural do Rio de janeiro. Co
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="right" 
-    alt="meme" 
-    title="meme"
-    width="130px" 
-    style="float-right" 
-    src="https://github.com/user-attachments/assets/eafe5765-c6e5-43bd-9452-3eb8aa2a1fd3"
 />
 
 <br/>
