@@ -104,26 +104,7 @@ Me chamo Jonas Silva Carvalho, tenho 25 anos e sou natural do Rio de janeiro. Co
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jonasloop1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<br/>
-
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasloop1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonasloop1/jonasloop1/output/github-contribution-grid-snake-dark.svg">
